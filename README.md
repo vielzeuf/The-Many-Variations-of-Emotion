@@ -3,3 +3,5 @@ This repository brings additional results to the paper:  "The Many Variations Of
 A) More generated samples on the test set
 
 B) Upcoming online demonstration
+
+![MyFace](/9-images/anim.gif)
