@@ -2,7 +2,7 @@ This repository brings additional results to our paper:
 **"The Many Variations Of Emotion" V.VIELZEUF, C.KERVADEC, S.PATEUX, F.JURIE** [pdf](https://hal.archives-ouvertes.fr/hal-02051792/document) presented at [FG2019](http://fg2019.org/).
 For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 
-# Generated expressions along the valence axis (displeasure to pleasure)
+## Generated expressions along the valence axis (displeasure to pleasure)
 * *Note that GIF format may create some artifacts.* *
 
 
@@ -19,11 +19,11 @@ For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 ![9](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/9.gif)
 ![8](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/8.gif)
 
-# Dominance axis 
+{# Dominance axis 
 COMING SOON
 
 
-# Discrete expressions generation
+## Discrete expressions generation
 COMING SOON
 
 
