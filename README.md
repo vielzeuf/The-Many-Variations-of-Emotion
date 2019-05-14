@@ -19,7 +19,7 @@ For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 ![9](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/9.gif)
 ![8](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/8.gif)
 
-{# Dominance axis 
+## Dominance axis 
 COMING SOON
 
 
