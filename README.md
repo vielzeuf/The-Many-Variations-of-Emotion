@@ -4,6 +4,8 @@ For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 
 # Generated expressions along the valence axis (displeasure to pleasure)
 * *Note that GIF format may create some artifacts.* *
+
+
 ![1](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/1.gif)
 ![7](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/7.gif)
 ![12](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/12.gif)
