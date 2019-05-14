@@ -1,7 +1,5 @@
 This repository brings additional results to the paper:  "The Many Variations Of Emotion" V.VIELZEUF, C.KERVADEC, S.PATEUX, F.JURIE presented at FG2019.
 
 A) More generated samples on the test set
+![MyFace](valence_gifs/Facial-Expression 14-4-2019 0_17_52.gif)
 
-B) Upcoming online demonstration
-
-![MyFace](/9-images/anim.gif)
