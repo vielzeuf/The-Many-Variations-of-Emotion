@@ -1,5 +1,5 @@
 This repository brings additional results to our paper: 
-**"The Many Variations Of Emotion" V.VIELZEUF, C.KERVADEC, S.PATEUX, F.JURIE** [pdf](https://hal.archives-ouvertes.fr/hal-02051792/document) presented at [FG2019](http://fg2019.org/).
+**"The Many Variations Of Emotion" V.VIELZEUF, C.KERVADEC, S.PATEUX, F.JURIE** [[pdf](https://hal.archives-ouvertes.fr/hal-02051792/document)] presented at [FG2019](http://fg2019.org/).
 For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 
 ## Generated expressions along the valence axis (displeasure to pleasure)
