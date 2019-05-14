@@ -1,7 +1,9 @@
-This repository brings additional results to the paper:  
+This repository brings additional results to our paper: 
+**"The Many Variations Of Emotion" V.VIELZEUF, C.KERVADEC, S.PATEUX, F.JURIE** [pdf](https://hal.archives-ouvertes.fr/hal-02051792/document) presented at [FG2019](http://fg2019.org/).
+For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 
-"The Many Variations Of Emotion" V.VIELZEUF, C.KERVADEC, S.PATEUX, F.JURIE presented at FG2019.
-
+# Generated expressions along the valence axis (displeasure to pleasure)
+* *Note that GIF format may create some artifacts.* *
 ![1](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/1.gif)
 ![7](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/7.gif)
 ![12](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/12.gif)
@@ -14,6 +16,15 @@ This repository brings additional results to the paper:
 ![11](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/11.gif)
 ![9](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/9.gif)
 ![8](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/8.gif)
+
+# Dominance axis 
+COMING SOON
+
+
+# Discrete expressions generation
+COMING SOON
+
+
 
 
 
