@@ -23,7 +23,7 @@ For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 
 ## Discrete expressions generation
 ![Angry](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/angry.jpeg)
-![Disgusted](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/dsigusted.jpeg)
+![Disgusted](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/disgusted.jpeg)
 ![Fearful](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/fear.jpeg)
 ![Happy](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/happy.jpeg)
 ![Neutral](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/neutral.jpeg)
