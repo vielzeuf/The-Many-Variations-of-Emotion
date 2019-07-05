@@ -8,7 +8,6 @@ For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 ## Generated expressions along the valence axis (displeasure to pleasure)
 *Note that GIF format may create some artifacts.*
 
-
 ![1](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/1.gif)
 ![7](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/7.gif)
 ![12](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/12.gif)
@@ -22,13 +21,24 @@ For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 ![9](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/9.gif)
 ![8](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/8.gif)
 
-## Dominance axis (self-confidence)
-
-
-## Arousal axis 
-
-
 ## Discrete expressions generation
+![Angry](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/angry.jpeg)
+![Disgusted](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/dsigusted.jpeg)
+![Fearful](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/fear.jpeg)
+![Happy](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/happy.jpeg)
+![Neutral](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/neutral.jpeg)
+![Sad](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/sad.jpeg)
+![Surprised](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/surprise.jpeg)
 
+## Dominance axis (self-confidence)
+![0](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/dominance/0.jpeg)
+![1](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/dominance/1.jpeg)
+![2](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/dominance/2.jpeg)
+![3](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/dominance/3.jpeg)
+![4](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/dominance/4.jpeg)
+![5](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/dominance/5.jpeg)
+![6](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/dominance/6.jpeg)
+![7](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/dominance/7.jpeg)
+![8](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/dominance/8.jpeg)
 
 **Disclaimer**:  *This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All person copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.* 
