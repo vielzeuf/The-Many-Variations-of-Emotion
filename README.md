@@ -1,7 +1,7 @@
 This repository brings additional results to our paper: 
 **"The Many Variations Of Emotion" V.VIELZEUF, C.KERVADEC, S.PATEUX, F.JURIE** [[pdf](https://hal.archives-ouvertes.fr/hal-02051792/document)] presented at [FG2019](http://fg2019.org/).
 
-A live demonstration is available at https://many-fe.noprod-b.kmt.orange.com/.
+A live demonstration is available [here](https://many-fe.noprod-b.kmt.orange.com/.).
 
 For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 
@@ -23,12 +23,12 @@ For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 ![8](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/8.gif)
 
 ## Dominance axis (self-confidence)
-COMING SOON
+
 
 ## Arousal axis 
-COMING SOON
+
 
 ## Discrete expressions generation
-COMING SOON
+
 
 **Disclaimer**:  *This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All person copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.* 
