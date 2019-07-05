@@ -22,6 +22,7 @@ For any questions, feel free to contact us at valentin.vielzeuf@orange.com.
 ![8](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/valence_gifs/8.gif)
 
 ## Discrete expressions generation
+Angry, Disgusted, Fearful, Happy, Neutral, Sad, Surprised
 ![Angry](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/angry.jpeg)
 ![Disgusted](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/disgusted.jpeg)
 ![Fearful](https://github.com/vielzeuf/The-Many-Variations-of-Emotion/blob/master/discrete_emotion/fear.jpeg)
